@@ -60,7 +60,7 @@
     <spring-version>5.2.3.RELEASE</spring-version>
     <spring-boot-version>2.2.4.RELEASE</spring-boot-version>
 
-    <commons-codec-version>1.10</commons-codec-version>
+    <commons-codec-version>1.15</commons-codec-version>
     <commons-httpclient-version>3.1</commons-httpclient-version>
     <commons-io-version>2.2</commons-io-version>
     <commons-logging-version>1.2</commons-logging-version>
